@@ -3,6 +3,7 @@ In this Project , I have used Google's Teachable Machine for a fun project on cl
 #Steps to follow 
 # [DEMO](https://appetize.io/app/31k7c81jb7xrq94qrvrt6ehze8)
 # TensorFlow Lite image classification Android example application
+### [APK](https://github.com/itzanuragsinghania/SSJ-ImageClassifier-using-Teachable-Machine/blob/main/SSJ%20ClassiFIER.apk)
 
 ## Overview
 
