@@ -1,6 +1,7 @@
 # SSJ-ImageClassifier-using-Teachable-Machine
 In this Project , I have used Google's Teachable Machine for a fun project on classifying different categories of super saiyajin's from the famous series of Dragon Ball Z series
 #Steps to follow 
+# [DEMO](https://appetize.io/app/31k7c81jb7xrq94qrvrt6ehze8)
 # TensorFlow Lite image classification Android example application
 
 ## Overview
@@ -21,6 +22,9 @@ device. For an explanation of the source, see
 [TensorFlow Lite Android image classification example](EXPLORE_THE_CODE.md).
 
 <!-- TODO(b/124116863): Add app screenshot. -->
+
+## Screenshot
+ <img target="_blank" src="https://github.com/itzanuragsinghania/SSJ-ImageClassifier-using-Teachable-Machine/blob/main/Screeshots/ssj1.jpg" width=300> <img target="_blank" src="https://github.com/itzanuragsinghania/SSJ-ImageClassifier-using-Teachable-Machine/blob/main/Screeshots/ssj3.jpg" width=300><img target="_blank" src="https://github.com/itzanuragsinghania/SSJ-ImageClassifier-using-Teachable-Machine/blob/main/Screeshots/ssjb.jpg" width=300>
 
 ### Model
 
