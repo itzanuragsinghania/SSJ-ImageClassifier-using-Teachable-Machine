@@ -25,7 +25,7 @@ device. For an explanation of the source, see
 <!-- TODO(b/124116863): Add app screenshot. -->
 
 ## Screenshot
- <img target="_blank" src="https://github.com/itzanuragsinghania/SSJ-ImageClassifier-using-Teachable-Machine/blob/main/Screeshots/ssj1.jpg" width=285> <img target="_blank" src="https://github.com/itzanuragsinghania/SSJ-ImageClassifier-using-Teachable-Machine/blob/main/Screeshots/ssj3.jpg" width=285><img target="_blank" src="https://github.com/itzanuragsinghania/SSJ-ImageClassifier-using-Teachable-Machine/blob/main/Screeshots/ssjb.jpg" width=285>
+ <img target="_blank" src="https://github.com/itzanuragsinghania/SSJ-ImageClassifier-using-Teachable-Machine/blob/main/Screeshots/ssj1.jpg" width=275> <img target="_blank" src="https://github.com/itzanuragsinghania/SSJ-ImageClassifier-using-Teachable-Machine/blob/main/Screeshots/ssj3.jpg" width=275><img target="_blank" src="https://github.com/itzanuragsinghania/SSJ-ImageClassifier-using-Teachable-Machine/blob/main/Screeshots/ssjb.jpg" width=275>
 
 ### Model
 
