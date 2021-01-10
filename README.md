@@ -129,3 +129,4 @@ Re-installing the app may require you to uninstall the previous installations.
 _Do not delete the assets folder content_. If you explicitly deleted the files,
 choose `Build -> Rebuild` to re-download the deleted model files into the assets
 folder.
+[![Paypal](templates/system/modules/ph7cms-helper/themes/base/img/paypal-donate.en.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=X457W3L7DAPC6)
